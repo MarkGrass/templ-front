@@ -1,0 +1,8 @@
+:root {
+    --offset-xs: 4px;
+    --offset-sm: 6px;
+    --offset-md: 10px;
+    --offset-lg: 16px;
+    --offset-xl: 24px;
+    --offset-xxl: 32px;
+}

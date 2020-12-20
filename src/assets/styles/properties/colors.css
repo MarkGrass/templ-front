@@ -1,0 +1,13 @@
+:root {
+    --color-white: #fff;
+
+    --color-light-100: #eee;
+    --color-dark-100: #ddd;
+    --color-primary-100: #ccc;
+    --color-secondary-100: #bbb;
+    --color-success-100: #aaa;
+    --color-info-100: #999;
+    --color-accent-100: #666;
+    --color-warning-100: #888;
+    --color-danger-100: #777;
+}
